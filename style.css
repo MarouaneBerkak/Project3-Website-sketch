@@ -53,6 +53,23 @@ footer{
 	text-align: center;
 	padding-top: 60px;
 	font-size: xx-large;
-	
 }
 
+
+
+@media (max-width:  991px) {
+
+
+	.responsive_aside{
+	display: none;
+	}
+
+}
+
+@media (min-width:  991px) {
+
+	.responsive_button{
+		display: none;
+	}
+
+}
