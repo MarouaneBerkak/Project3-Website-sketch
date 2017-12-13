@@ -17,6 +17,8 @@ box-shadow: 0 8px 6px -6px #999;
   	line-height: 40px;
   	padding: 0px 0px 5px 0px;
   	box-shadow: 0 8px 6px -6px #999;
+  	margin-bottom: 10px;
+  	margin-top: 5px;
   
 
 }
@@ -28,6 +30,7 @@ box-shadow: 0 8px 6px -6px #999;
 }
 .conteneur{
 	padding: 5px;
+
 
 
 }
@@ -82,4 +85,6 @@ footer{
 	}
 
 }
+
+textarea { resize: vertical; }
 
