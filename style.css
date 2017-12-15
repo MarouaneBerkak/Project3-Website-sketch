@@ -1,5 +1,5 @@
 .jumbotron{
-	background-color: url("images/jumbotron.jpg");
+	background-image: url("images/jumbotron.jpg");
 }
 .navbar{
 margin: 0;
