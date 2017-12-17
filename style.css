@@ -87,4 +87,6 @@ footer{
 }
 
 textarea { resize: vertical; }
-
+footer a:hover{
+	text-decoration: none;
+}
